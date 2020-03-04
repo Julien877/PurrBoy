@@ -1,0 +1,25 @@
+{
+  "name": "tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.6.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "json": "^9.0.6",
+    "moment": "^2.24.0",
+    "random-puppy": "^1.1.0",
+    "report": "^0.1.1",
+    "warning": "^4.0.3",
+    "warnings": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
